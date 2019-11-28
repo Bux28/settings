@@ -2,6 +2,7 @@
 	"notifications": {
 		"0": {
 			"id": "201911281200",
+			"titre": "Promo",
 			"m": "PROMO !!!! exeptionnel!",
 			"dm": "201911281800",
 			"de": "201912281800",
@@ -10,6 +11,7 @@
 		},
 		"1": {
 			"id": "201911281200",
+			"titre": "Alerte",
 			"m": "Je suis la seconde notif",
 			"dm": "201911281200",
 			"de": "201912281800",
