@@ -1,0 +1,20 @@
+{
+	"notifications": {
+		"0": {
+			"id": "201911281200",
+			"m": "PROMO !!!! exeptionnel!",
+			"dm": "201911281800",
+			"de": "201912281800",
+			"img": "",
+			"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfXKe6Yfjr6rCtR6cMPJB8CqMAYWECDtDqH-eMnerHHuXv9egrw"
+		},
+		"1": {
+			"id": "201911281200",
+			"m": "Je suis la seconde notif",
+			"dm": "201911281200",
+			"de": "201912281800",
+			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfXKe6Yfjr6rCtR6cMPJB8CqMAYWECDtDqH-eMnerHHuXv9egrw",
+			"icon": ""
+		}
+	}
+}
